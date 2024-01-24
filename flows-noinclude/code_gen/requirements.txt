@@ -1,0 +1,6 @@
+# requirements.txt common for all flows
+antlr4-python3-runtime == 4.13.1
+langchain == 0.1.0
+openai == 1.3.7
+promptflow
+pydantic == 2.5.3
